@@ -28,3 +28,10 @@ To get started, you'll need a dataset containing house-related data. You can dow
 
 Once downloaded, please ensure that you properly rename the dataset file according to your project requirements.
 
+## Usage
+
+1. **Clone the Repository:** Begin by cloning this repository to your local machine.
+
+   ```bash
+   git clone https://github.com/Luis080117/HousePredictor.git
+   cd HousePredictor
