@@ -18,7 +18,7 @@ House Price Prediction with ML.NET is a .NET application that utilizes machine l
 
 Before you begin, make sure you have the following prerequisites installed:
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version X.X or higher)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (version 6.0 or higher)
 
 ### Dataset
 
